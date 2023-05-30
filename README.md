@@ -11,6 +11,7 @@ Utilised these layers: Flatten, BatchNormalization, Dense, Conv2D, MaxPooling2D,
 
 I used the softmax function and catergorical cross entropy loss to run 50 epochs with a batch size of 32.
 
-# So, the model accuracy is 97%
+# So, the model accuracy is 99%
+# Validation accuracy is 97%
 
 In Prediction, the Cat is represent as 0 and Dog is represent as 1
